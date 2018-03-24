@@ -1,6 +1,6 @@
 # Headline
-  Point
+   *Point*
 
 ### Sub-headline
-  **Point**
-  - Sub-point
+   **Point**
+   - Sub-point
