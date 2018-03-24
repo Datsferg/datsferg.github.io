@@ -1,4 +1,4 @@
-# Headline | ![image](http://getwallpapers.com/wallpaper/full/a/a/e/477401.jpg)
+# Headline  ![image](http://getwallpapers.com/wallpaper/full/a/a/e/477401.jpg)
 ----------------------
 *Point* 
 > Quote, more quote. 
