@@ -1,4 +1,4 @@
-# Headline | [image](https://octodex.github.com/images/yaktocat.png)
+# Headline | ![image](https://octodex.github.com/images/yaktocat.png)
 ----------------------
 *Point* |
 > Quote, more quote. |
