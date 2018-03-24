@@ -1,3 +1,0 @@
-#Headline
-
-###Sub-headline
